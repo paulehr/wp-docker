@@ -1,0 +1,18 @@
+*.DS_Store 
+
+#MySQL Data 
+data/.data
+
+#logs 
+logs/*
+
+#SSL files 
+ssl/*.pem
+ssl/*.crt
+ssl/*.key
+
+#website code 
+code/*
+
+#backups 
+backup/*
